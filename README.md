@@ -1,10 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Spring Cloud Site
 通俗易懂，快速开发，快速交付，安全保障
 
 
 
-为什么选择JeeSite4？
-1
+为什么选择Spring Cloud Site？
 
 简单、高效
 
@@ -16,7 +15,6 @@
 
     快速交付
 
-2
 
 架构、优良
 
@@ -28,7 +26,6 @@
 
     性能优良
 
-3
 
 微服务、集群
 
@@ -40,7 +37,7 @@
 
     方便升级
 
-4
+
 
 社区、支持
 
@@ -49,8 +46,8 @@
     问题即时响应
 
     用的人多案例多
-
-    与大牛交流
+   
+    全部采用开源免费框架
 
 
 
@@ -64,6 +61,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
+##研发者
+杨航
+孙运旭
+姚延军
 
 # Header 1
 ## Header 2
@@ -82,7 +83,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Pactera BG3 COMM DEVT
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/springcloudsite/bi/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
