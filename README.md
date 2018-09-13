@@ -1,4 +1,58 @@
 ## Welcome to GitHub Pages
+通俗易懂，快速开发，快速交付，安全保障
+
+
+
+为什么选择JeeSite4？
+1
+
+简单、高效
+
+    经典架构会的人多
+
+    节省培训人力成本
+
+    缩短项目周期
+
+    快速交付
+
+2
+
+架构、优良
+
+    安全稳定
+
+    方便第三方扩展
+
+    模块插拔方便
+
+    性能优良
+
+3
+
+微服务、集群
+
+    Spring Boot
+
+    Redis会话共享
+
+    松耦合设计
+
+    方便升级
+
+4
+
+社区、支持
+
+    完善的开源社区
+
+    问题即时响应
+
+    用的人多案例多
+
+    与大牛交流
+
+
 
 You can use the [editor on GitHub](https://github.com/springcloudsite/bi/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
