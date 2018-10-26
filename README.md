@@ -1,7 +1,7 @@
 
 ## Welcome to Spring Cloud Site
 
-[平台介绍](https://baidu.com/) [源码下载](https://baidu.com/) [在线文档](https://baidu.com/) [在线演示](https://baidu.com/) [关于我们](https://baidu.com/)
+[平台介绍](https://www.springcloudsite.com/index.html) [源码下载](https://baidu.com/) [在线文档](https://baidu.com/) [在线演示](https://baidu.com/) [关于我们](https://baidu.com/)
 
 
 ###平台介绍
